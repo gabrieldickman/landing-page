@@ -41,4 +41,4 @@ Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
 
 ## 👷 Autores
 
-* **Luiz Otavio Miranda** - *Professor do curso* - [Luiz_Otavio_Miranda](https://github.com/link_do_Perfil](https://github.com/luizomf)
+* **Luiz Otavio Miranda** - *Professor do curso* - [Luiz_Otavio_Miranda](https://github.com/luizomf)
