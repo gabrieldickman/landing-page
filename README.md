@@ -1,5 +1,5 @@
 
-![Logo do projeto]([https://i.imgur.com/kniMQHu.png](https://github.com/gabrieldickman/landing-page/blob/main/assets/img/mockup.PNG))
+![Logo do projeto](https://github.com/gabrieldickman/landing-page/blob/main/assets/img/mockup.PNG)
 
 # Landing Page
 
@@ -41,4 +41,4 @@ Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
 
 ## 👷 Autores
 
-* **Luiz Otavio Miranda** - *Professor do curso* - [Luiz Otavio Miranda]([https://github.com/link_do_Perfil](https://github.com/luizomf))
+* **Luiz Otavio Miranda** - *Professor do curso* - [Luiz_Otavio_Miranda](https://github.com/link_do_Perfil](https://github.com/luizomf)
