@@ -11,6 +11,13 @@ Projeto criada como desafio de estudos para treinar as habilidades de HTML e CSS
 
 [Testar_o_projeto](https://simplelandingpag3.netlify.app/)
 
+## Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
+
+- [] Adicionar Breakpoints.
+- [] Corrigir a responsividade de algumas seções e itens.
+
 ### ⚙️ Pré-requisitos
 
 Para rodar o projeto na sua máquina é necessário que tenha instalado:
