@@ -15,8 +15,8 @@ Projeto criada como desafio de estudos para treinar as habilidades de HTML e CSS
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-- [] Adicionar Breakpoints.
-- [] Corrigir a responsividade de algumas seções e itens.
+- [ ] Adicionar Breakpoints.
+- [ ] Corrigir a responsividade de algumas seções e itens.
 
 ### ⚙️ Pré-requisitos
 
