@@ -29,7 +29,7 @@ Para rodar o projeto na sua máquina é necessário que tenha instalado:
 
 Para rodar o projeto na sua máquina basta:
 
-Clonar o projeto em um repositório local na sua máquina:
+Clonar o projeto em um repositório local na sua máquina.
 
 Para isso:
 
