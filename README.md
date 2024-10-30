@@ -9,7 +9,7 @@ Uma Landing Page simples.
 
 Projeto criada como desafio de estudos para treinar as habilidades de HTML e CSS utilizando conceitos de flexbox, grid layout e breakpoints.
 
-![testar_o_projeto](https://simplelandingpag3.netlify.app/)
+[Testar_o_projeto](https://simplelandingpag3.netlify.app/)
 
 ### ⚙️ Pré-requisitos
 
