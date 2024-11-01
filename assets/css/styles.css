@@ -372,6 +372,7 @@ body .full-width {
   }
 
   .intro-img svg {
+    margin: 0 auto;
     max-width: 35rem;
   }
 
