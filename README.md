@@ -32,11 +32,9 @@ Após isso, execute o comando:
 ```
 git clone https://github.com/gabrieldickman/landing-page.git
 ```
-Após, abra o arquivo index.html contido na pasta do projeto com o navegador.
+Após, abra o arquivo *index.html* contido na pasta do projeto com o navegador.
 
 ## 📦 Tecnologias usadas:
-
-Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
 
 * HTML
 * CSS
